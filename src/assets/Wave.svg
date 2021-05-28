@@ -1,0 +1,27 @@
+<svg width="100%" viewBox="0 0 1440 742" version="1.1"
+      baseProfile="full"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:ev="http://www.w3.org/2001/xml-events">
+     <defs>
+         <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+             <stop stop-color="#000000" stop-opacity="0.01" offset="0%"></stop>
+             <stop stop-color="#434343" stop-opacity="0.03" offset="100%"></stop>
+         </linearGradient>
+         <pattern id="img1" patternUnits="userSpaceOnUse" width="1400" height="742">
+             <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/1/11/Varkala_Beach_High_Res.jpg" x="0" y="0" width="1400" height="742" />
+         </pattern>
+         <path d="M526.611472,1330.75724 C526.681681,1330.68703 525.998884,-525.688822 526.611472,-525.076039 L1243.10385,191.419563 C1359.86286,308.179101 1359.86286,497.502097 1243.10385,614.261635 L526.611472,1330.75724 Z" id="path-2"></path>
+     </defs>
+     <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+         <g id="Knowledge-base-article">
+             <g id="businessman-in-workplace-PYDTUKV" transform="translate(-209.000000, -63.000000)">
+                 <mask id="mask-3" fill="white">
+                     <use xlink:href="#path-2"></use>
+                     <use xlink:href="#img1"></use>
+                 </mask>
+                 <use id="Mask" fill="url(#linearGradient-1)" transform="translate(928.513633, 402.840523) scale(-1, 1) rotate(90.000000) translate(-928.513633, -402.840523) " xlink:href="#path-2"></use>
+             </g>
+         </g>
+     </g>
+ </svg>
