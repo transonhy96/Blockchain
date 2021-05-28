@@ -1,4 +1,4 @@
-import apiKey from "@/apiKey.json";
+import apiKey from "../apiKey.json";
 export default {
     getUrl:(networkID,address) =>{
         switch (networkID) {
